@@ -1,0 +1,178 @@
+Absent,غائب
+Actions,الإجراءات
+Add Expense,إضافة مصروف
+Add Tax,إضافة ضريبة
+Advance Amount,مبلغ السلفة
+Apply Filters,تطبيق الفلاتر
+Approval,الموافقة
+Approve,موافقة
+Approved,تمت الموافقة
+Are you sure you want to delete the attachment,هل أنت متأكد من حذف المرفق؟
+Are you sure you want to delete the {0},هل أنت متأكد من حذف {0}؟
+Attachments,المرفقات
+Attendance,الحضور
+Attendance Calendar,تقويم الحضور
+Attendance Request History,سجل طلبات الحضور
+Cancel,إلغاء
+Cancelled,ملغى
+Check In,تسجيل الحضور
+Check Out,تسجيل الانصراف
+Check-in,تسجيل الحضور
+Check-out,تسجيل الانصراف
+Claim an Expense,مطالبة بمصروف
+Claimed,تمت المطالبة
+Clear All,مسح الكل
+Close,إغلاق
+Company Information,معلومات الشركة
+Confirm,تأكيد
+Contact Information,معلومات الاتصال
+Delete,حذف
+Delete Attachment,حذف المرفق
+Department,القسم
+Disabling Push Notifications...,جارٍ تعطيل الإشعارات الفورية...
+Dismiss,رفض
+Download PDF,تنزيل PDF
+Draft,مسودة
+Edit Expense Item,تعديل بند المصروف
+Edit Expense Tax,تعديل ضريبة المصروف
+Email,البريد الإلكتروني
+Employee,الموظف
+Employee Advance Balance,رصيد سلفة الموظف
+Employee Advances,سلف الموظف
+Employee Checkin History,سجل حضور الموظف
+Employee Details,تفاصيل الموظف
+Enable Push Notifications,تفعيل الإشعارات الفورية
+Enabling Push Notifications...,جارٍ تفعيل الإشعارات الفورية...
+End Date,تاريخ الانتهاء
+End Date cannot be before Start Date,لا يمكن أن يكون تاريخ الانتهاء قبل تاريخ البداية
+Error,خطأ
+Expense Claim Summary,ملخص مطالبات المصروفات
+Expense Claims,مطالبات المصروفات
+Expense Item,بند المصروف
+Expense Tax,ضريبة المصروف
+Expenses,المصروفات
+File Preview,معاينة الملف
+Filters,الفلاتر
+Friday,الجمعة
+From Date,من تاريخ
+Geolocation is not supported by your current browser,الموقع الجغرافي غير مدعوم في متصفحك الحالي
+Go to Login,الذهاب إلى تسجيل الدخول
+Go to Reset Password page,الذهاب إلى صفحة إعادة تعيين كلمة المرور
+Gross Pay,إجمالي الراتب
+Half Day,نصف يوم
+Holiday List,قائمة العطل الرسمية
+Home,الرئيسية
+Install,تثبيت
+Leave Balance,رصيد الإجازات
+Leave History,سجل الإجازات
+Leave Type,نوع الإجازة
+Leaves,الإجازات
+Leaves & Holidays,الإجازات والعطل
+Load more,تحميل المزيد
+Locating...,جارٍ تحديد الموقع...
+Log Out,تسجيل الخروج
+Log Type,نوع السجل
+Login,تسجيل الدخول
+Login Failed,فشل تسجيل الدخول
+Longitude: {0}°,خط الطول: {0}°
+Mark all as read,تحديد الكل كمقروء
+Menu,القائمة
+Monday,الاثنين
+My Advances,سلفي
+My Claims,مطالباتي
+My Leaves,إجازاتي
+My Requests,طلباتي
+New,جديد
+New Expense Item,بند مصروف جديد
+New Expense Tax,ضريبة مصروف جديدة
+No,لا
+No advances found,لا توجد سلف
+No expenses added,لم تتم إضافة مصروفات
+No salary slips found,لم يتم العثور على قسائم راتب
+No taxes added,لم تتم إضافة ضرائب
+Notifications,الإشعارات
+OTP Code,رمز التحقق
+OTP Verification,التحقق برمز OTP
+On Leave,في إجازة
+Open,مفتوح
+Paid,مدفوع
+Paid Amount,المبلغ المدفوع
+Partly Claimed and Returned,مطالب جزئياً ومُعاد
+Password,كلمة المرور
+Payroll Period,فترة الرواتب
+Pending,معلق
+Present,حاضر
+Profile,الملف الشخصي
+Push Notification permission denied,تم رفض إذن الإشعارات الفورية
+Push notifications disabled,الإشعارات الفورية معطلة
+Quick Links,روابط سريعة
+Recent Attendance Requests,طلبات الحضور الأخيرة
+Recent Expenses,المصروفات الأخيرة
+Recent Leaves,الإجازات الأخيرة
+Recent Shift Requests,طلبات الوردية الأخيرة
+Reject,رفض
+Rejected,مرفوض
+Reload,إعادة التحميل
+Request Attendance,طلب تسجيل حضور
+Request Leave,طلب إجازة
+Request a Leave,طلب إجازة
+Request a Shift,طلب وردية
+Request an Advance,طلب سلفة
+Reset Password,إعادة تعيين كلمة المرور
+Returned,مُعاد
+Salary,الراتب
+Salary Information,معلومات الراتب
+Salary Slips,قسائم الراتب
+Sanctioned,معتمد
+Saturday,السبت
+Select Payroll Period,اختر فترة الرواتب
+Settings,الإعدادات
+Settle against Advances,تسوية مع السلف
+Shift,الوردية
+Shift Assignment History,سجل توزيع الورديات
+Shift Type,نوع الوردية
+Start Date,تاريخ البداية
+Status,الحالة
+Submit,تقديم
+Success,نجاح
+Sunday,الأحد
+Taxes & Charges,الضرائب والرسوم
+Team Advances,سلف الفريق
+Team Claims,مطالبات الفريق
+Team Leaves,إجازات الفريق
+Team Requests,طلبات الفريق
+Thursday,الخميس
+To Date,إلى تاريخ
+To Date cannot be before From Date,لا يمكن أن يكون التاريخ الأخير قبل تاريخ البداية
+Total Claimed Amount,إجمالي المبلغ المطالب به
+Tuesday,الثلاثاء
+Unclaimed Amount,المبلغ غير المطالب به
+Unpaid,غير مدفوع
+Upcoming Holidays,العطل القادمة
+Upcoming Shifts,الورديات القادمة
+Update Expense,تحديث المصروف
+Update Tax,تحديث الضريبة
+Upload images or documents,رفع صور أو مستندات
+Uploading...,جارٍ الرفع...
+Verify,تحقق
+View All,عرض الكل
+View Leave History,عرض سجل الإجازات
+View List,عرض القائمة
+View Salary Slips,عرض قسائم الراتب
+Wednesday,الأربعاء
+Work From Home,العمل من المنزل
+Year To Date,من بداية العام حتى الآن
+Yes,نعم
+You have no advances,ليس لديك سلف
+You have no leaves allocated,لم يتم تخصيص إجازات لك
+You have no notifications,ليس لديك إشعارات
+You have no requests,ليس لديك طلبات
+You have no upcoming holidays,ليس لديك عطل قادمة
+You have no upcoming shifts,ليس لديك ورديات قادمة
+Your password has expired. Please reset your password to continue,انتهت صلاحية كلمة المرور. يرجى إعادة تعيينها للمتابعة
+cancellation,إلغاء
+cancelled,ملغى
+submission,تقديم
+submitted,مقدم
+{0} Unread,{0} غير مقروء
+{0} balance,رصيد {0}

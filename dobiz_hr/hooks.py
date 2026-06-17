@@ -7,8 +7,18 @@ app_license = "mit"
 
 # Apps
 # ------------------
+app_include_css = "/assets/dobiz_hr/css/arabic_font.css"
+app_include_js = "/assets/dobiz_hr/js/hrms_overrides.js"
 
-# required_apps = []
+# Fixtures
+# ------------------
+fixtures = [
+    {"dt": "Property Setter"},
+    {"dt": "Custom Field"},
+    {"dt": "Navbar Settings"} # If you want your hidden menu settings to export too!
+]
+
+# required_apps = [hrms]
 
 # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
