@@ -18,7 +18,7 @@ fixtures = [
     {"dt": "Navbar Settings"} # If you want your hidden menu settings to export too!
 ]
 
-# required_apps = [hrms]
+required_apps = ["hrms"]
 
 # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
