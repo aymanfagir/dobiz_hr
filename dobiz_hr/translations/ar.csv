@@ -1,166 +1,825 @@
 Absent,غائب
+Account,الحساب
+Account Head,رأس الحساب
+Accounting,المحاسبة
+Accounting Details,تفاصيل المحاسبة
+Accounting Dimensions,أبعاد المحاسبة
+Accounts,الحسابات
+Action,الإجراء
 Actions,الإجراءات
+Activities,الأنشطة
+Activity Name,اسم النشاط
+Actual Cost,التكلفة الفعلية
+Actual Encashable Days,أيام الصرف الفعلية
+Actual Overtime Duration,مدة العمل الإضافي الفعلية
+Add Day-wise Dates,إضافة تواريخ يومية
 Add Expense,إضافة مصروف
 Add Tax,إضافة ضريبة
+Add unused leaves from previous allocations,إضافة الإجازات غير المستخدمة من التخصيصات السابقة
+Added On,تاريخ الإضافة
+Additional Information,معلومات إضافية
+Additional Salary,راتب إضافي
+Address of Organizer,عنوان المنظم
+Adjustment Type,نوع التسوية
+Advance Account,حساب السلفة
 Advance Amount,مبلغ السلفة
+Advance Paid,السلفة المدفوعة
+Advance Paid (Company Currency),السلفة المدفوعة (عملة الشركة)
+Advance Payments,مدفوعات السلفة
+Advanced Filters,فلاتر متقدمة
+Advances,السلف
+Allocate Based On Leave Policy,التخصيص بناءً على سياسة الإجازة
+Allocate on Day,التخصيص في اليوم
+Allocated Amount,المبلغ المخصص
+Allocated Amount (Company Currency),المبلغ المخصص (عملة الشركة)
+Allocated Leaves,الإجازات المخصصة
+Allocated Via,مخصص عبر
+Allocation,التخصيص
+Allocation Date,تاريخ التخصيص
+Allocation Details,تفاصيل التخصيص
+Allocation to Adjust,التخصيص للتسوية
+Allow Employee Checkin from Mobile App,السماح بتسجيل حضور الموظف من التطبيق
+Allow Encashment,السماح بالصرف
+Allow Geolocation Tracking,السماح بتتبع الموقع الجغرافي
+Allow Leave Application After (Calendar Days),السماح بطلب إجازة بعد (أيام تقويمية)
+Allow Multiple Shift Assignments for Same Date,السماح بتعيين ورديات متعددة لنفس التاريخ
+Allow Negative Balance,السماح بالرصيد السالب
+Allow Over Allocation,السماح بالتخصيص الزائد
+Allow Overtime,السماح بالعمل الإضافي
+Allow User,السماح للمستخدم
+Allow Users,السماح للمستخدمين
+Allow check-out after shift end time (in minutes),السماح بتسجيل الانصراف بعد وقت انتهاء الوردية (بالدقائق)
+Amended From,معدل من
+Amount,المبلغ
+Amount (Company Currency),المبلغ (عملة الشركة)
+Annual Allocation,التخصيص السنوي
+Any other details,أي تفاصيل أخرى
+Applicable For,قابل للتطبيق على
+Applicable Salary Components,مكونات الراتب القابلة للتطبيق
+Applicant Email Address,عنوان البريد الإلكتروني للمتقدم
+Applicant Name,اسم المتقدم
+Applicant Rating,تقييم المتقدم
+Application Web Form Route,مسار نموذج الطلب الإلكتروني
+Applies to Company,ينطبق على الشركة
 Apply Filters,تطبيق الفلاتر
+Apply for Public Holiday,تطبيق للعطلة الرسمية
+Apply for Weekend,تطبيق لعطلة نهاية الأسبوع
+Appointment Date,تاريخ التعيين
+Appointment Letter Template,قالب خطاب التعيين
+Appraisal,التقييم
+Appraisal Cycle,دورة التقييم
+Appraisal Linking,ربط التقييم
+Appraisal Template,قالب التقييم
+Appraisal Template Title,عنوان قالب التقييم
 Approval,الموافقة
+Approval Status,حالة الموافقة
 Approve,موافقة
 Approved,تمت الموافقة
+Approver,المعتمد
+Arrival Datetime,تاريخ ووقت الوصول
 Are you sure you want to delete the attachment,هل أنت متأكد من حذف المرفق؟
 Are you sure you want to delete the {0},هل أنت متأكد من حذف {0}؟
+Asset Name,اسم الأصل
+Assets Allocated,الأصول المخصصة
+Assigned To,مخصص إلى
+Assignment Starts From,يبدأ التعيين من
+Assignment based on,التعيين بناءً على
+Associated Document,المستند المرتبط
+Associated Document Type,نوع المستند المرتبط
+Attachment,المرفق
 Attachments,المرفقات
 Attendance,الحضور
 Attendance Calendar,تقويم الحضور
+Attendance Date,تاريخ الحضور
+Attendance From Date,الحضور من تاريخ
+Attendance Marked,الحضور المسجل
+Attendance Request,طلب الحضور
 Attendance Request History,سجل طلبات الحضور
+Attendance Settings,إعدادات الحضور
+Attendance To Date,الحضور إلى تاريخ
+Attendees,الحاضرون
+Auto Attendance Settings,إعدادات الحضور التلقائي
+Auto Leave Encashment,صرف الإجازات التلقائي
+Automatically update Last Sync of Checkin,تحديث آخر مزامنة لتسجيل الحضور تلقائياً
+Average Feedback Score,متوسط نقاط الملاحظات
+Average Rating,متوسط التقييم
+Bank / Cash Account,حساب البنك / النقد
+Basic,الأساسي
+Begin On (Days),يبدأ في (أيام)
+Begin check-in before shift start time (in minutes),بدء تسجيل الحضور قبل وقت بدء الوردية (بالدقائق)
+Birthdays,أعياد الميلاد
+Block Date,تاريخ الحظر
+Block Days,أيام الحظر
+Boarding Status,حالة الانضمام
+Body,النص
+Branch,الفرع
+Calculate Final Score based on Formula,احتساب النتيجة النهائية بناءً على الصيغة
 Cancel,إلغاء
 Cancelled,ملغى
+Carry Forward,ترحيل
+Carry Forwarded Leaves,الإجازات المرحلة
+Cause of Grievance,سبب الشكوى
 Check In,تسجيل الحضور
 Check Out,تسجيل الانصراف
+Check Vacancies On Job Offer Creation,التحقق من الشواغر عند إنشاء عرض العمل
 Check-in,تسجيل الحضور
+Check-in Date,تاريخ تسجيل الحضور
 Check-out,تسجيل الانصراف
+Check-out Date,تاريخ تسجيل الانصراف
+Checkin Radius,نطاق تسجيل الحضور
 Claim an Expense,مطالبة بمصروف
 Claimed,تمت المطالبة
+Claimed Amount,المبلغ المطالب به
+Clearance Date,تاريخ التصفية
 Clear All,مسح الكل
 Close,إغلاق
+Closed On,تاريخ الإغلاق
+Closes On,ينتهي في
+Closing Notes,ملاحظات الإغلاق
+Color,اللون
+Comments,التعليقات
+Company,الشركة
+Company Details,تفاصيل الشركة
 Company Information,معلومات الشركة
+Compensatory Leave Request,طلب إجازة تعويضية
+Completed On,تاريخ الاكتمال
+Component,المكون
 Confirm,تأكيد
+Confirm New Password,تأكيد كلمة المرور الجديدة
+Connections,الروابط
+Contact Email,البريد الإلكتروني للتواصل
 Contact Information,معلومات الاتصال
+Contact No.,رقم التواصل
+Contact Number,رقم الاتصال
+Copy of Invitation/Announcement,نسخة من الدعوة/الإعلان
+Cost,التكلفة
+Cost Center,مركز التكلفة
+Costing,التكاليف
+Costing Details,تفاصيل التكاليف
+Country,الدولة
+Course,الدورة
+Cover Letter,خطاب التقديم
+Create New Employee Id,إنشاء معرف موظف جديد
+Create Shifts After,إنشاء ورديات بعد
+Criteria,المعايير
+Currency,العملة
+Current,الحالي
+Current CTC,الراتب الحالي الإجمالي
+Current Count,العدد الحالي
+Current Employer,صاحب العمل الحالي
+Current Job Title,المسمى الوظيفي الحالي
+Current Odometer value,قيمة العداد الحالية
+Current Password,كلمة المرور الحالية
+Current Openings,الشواغر الحالية
+Cycle Name,اسم الدورة
+Daily Work Summary Group,مجموعة ملخص العمل اليومي
+Dashboard,لوحة التحكم
+Date,التاريخ
+Date of Birth,تاريخ الميلاد
+Date of Joining,تاريخ الالتحاق
+Dates & Reason,التواريخ والسبب
+Dates Based On,التواريخ بناءً على
+Default Account,الحساب الافتراضي
+Default Base Pay,الراتب الأساسي الافتراضي
+Default Salary Structure,هيكل الراتب الافتراضي
+Deferred Expense Account,حساب المصروفات المؤجلة
 Delete,حذف
 Delete Attachment,حذف المرفق
+Delivery Trip,رحلة التوصيل
 Department,القسم
+Departure Datetime,تاريخ ووقت المغادرة
+Description,الوصف
+Designation,المسمى الوظيفي
+Details,التفاصيل
+Details of Sponsor (Name\, Location),تفاصيل الراعي (الاسم، الموقع)
+Determine Check-in and Check-out,تحديد تسجيل الحضور والانصراف
 Disabling Push Notifications...,جارٍ تعطيل الإشعارات الفورية...
 Dismiss,رفض
 Download PDF,تنزيل PDF
+Download Template,تنزيل القالب
 Draft,مسودة
+Duration (Days),المدة (أيام)
+Early Exit,الخروج المبكر
+Early Exit Grace Period,فترة السماح للخروج المبكر
+Earned Leave,إجازة مكتسبة
+Earned Leave Frequency,تكرار الإجازة المكتسبة
+Earned Leave Schedule,جدول الإجازة المكتسبة
+Earning Component,مكون الأرباح
 Edit Expense Item,تعديل بند المصروف
 Edit Expense Tax,تعديل ضريبة المصروف
+Effective From,ساري من
+Effective To,ساري إلى
 Email,البريد الإلكتروني
+Email Address,عنوان البريد الإلكتروني
+Email ID,معرف البريد الإلكتروني
+Email Sent To,البريد الإلكتروني المرسل إلى
 Employee,الموظف
+Employee Advance,سلفة الموظف
 Employee Advance Balance,رصيد سلفة الموظف
 Employee Advances,سلف الموظف
 Employee Checkin History,سجل حضور الموظف
+Employee Company,شركة الموظف
 Employee Details,تفاصيل الموظف
+Employee Emails,بريد الموظفين الإلكتروني
+Employee Exit Settings,إعدادات مغادرة الموظف
+Employee Grade,درجة الموظف
+Employee Image,صورة الموظف
+Employee Name,اسم الموظف
+Employee Naming By,تسمية الموظف بواسطة
+Employee Onboarding Template,قالب تأهيل الموظف
+Employee Promotion Details,تفاصيل ترقية الموظف
+Employee Referral,إحالة الموظف
+Employee Responsible,الموظف المسؤول
+Employee Separation Template,قالب مغادرة الموظف
+Employee Settings,إعدادات الموظف
+Employee Skills,مهارات الموظف
+Employee Transfer Detail,تفاصيل نقل الموظف
+Employee Transfer Details,تفاصيل نقل الموظف
+Employee name,اسم الموظف
+Employees,الموظفون
+Enable Auto Attendance,تفعيل الحضور التلقائي
+Enable Early Exit Marking,تفعيل تسجيل الخروج المبكر
+Enable Late Entry Marking,تفعيل تسجيل التأخر
 Enable Push Notifications,تفعيل الإشعارات الفورية
+Enabled,مفعّل
 Enabling Push Notifications...,جارٍ تفعيل الإشعارات الفورية...
+Encashment,الصرف
+Encashment Amount,مبلغ الصرف
+Encashment Date,تاريخ الصرف
+Encashment Days,أيام الصرف
 End Date,تاريخ الانتهاء
 End Date cannot be before Start Date,لا يمكن أن يكون تاريخ الانتهاء قبل تاريخ البداية
+End Time,وقت الانتهاء
 Error,خطأ
+Estimated Cost Per Position,التكلفة المقدرة لكل منصب
+Evaluation Date,تاريخ التقييم
+Event Details,تفاصيل الحدث
+Event Name,اسم الحدث
+Event Status,حالة الحدث
+Exchange Gain/Loss,ربح/خسارة الصرف
+Exchange Rate,سعر الصرف
+Exit Interview Summary,ملخص مقابلة المغادرة
+Exit Questionnaire,استبيان المغادرة
+Exit Questionnaire Notification Template,قالب إشعار استبيان المغادرة
+Exit Questionnaire Web Form,نموذج استبيان المغادرة الإلكتروني
+Expected Average Rating,متوسط التقييم المتوقع
+Expected By,متوقع بحلول
+Expected Compensation,الراتب المتوقع
+Expected Skillset,المهارات المطلوبة
+Expense,المصروف
+Expense Account,حساب المصروفات
+Expense Approver,معتمد المصروفات
+Expense Approver Mandatory In Expense Claim,معتمد المصروفات إلزامي في مطالبة المصروفات
 Expense Claim Summary,ملخص مطالبات المصروفات
+Expense Claim Type,نوع مطالبة المصروفات
 Expense Claims,مطالبات المصروفات
+Expense Date,تاريخ المصروف
 Expense Item,بند المصروف
 Expense Tax,ضريبة المصروف
+Expense Taxes and Charges,ضرائب ورسوم المصروفات
+Expense Type,نوع المصروف
 Expenses,المصروفات
+Expenses & Advances,المصروفات والسلف
+Expenses Settings,إعدادات المصروفات
+Expire Carry Forwarded Leaves (Days),انتهاء صلاحية الإجازات المرحلة (أيام)
+Expired,منتهية الصلاحية
+Explanation,التوضيح
+Failed,فاشل
+Failure Reason,سبب الفشل
+Feedback,الملاحظات
+Feedback Ratings,تقييمات الملاحظات
+Feedback Reminder Notification Template,قالب إشعار تذكير الملاحظات
+Fetch Geolocation,جلب الموقع الجغرافي
+Field Name,اسم الحقل
 File Preview,معاينة الملف
+Filter List,قائمة الفلاتر
+Filter by Shift,فلترة حسب الوردية
 Filters,الفلاتر
+Final Decision,القرار النهائي
+Final Score,النتيجة النهائية
+Final Score Formula,صيغة النتيجة النهائية
+First Name,الاسم الأول
+Follow via Email,المتابعة عبر البريد الإلكتروني
+For Designation,للمسمى الوظيفي
+For Employee,للموظف
+Fraction of Daily Salary per Leave,نسبة الراتب اليومي لكل إجازة
+Frequency,التكرار
 Friday,الجمعة
 From Date,من تاريخ
+From Employee,من الموظف
+From Time,من الوقت
+From User,من المستخدم
+Fuel Price,سعر الوقود
+Fuel Qty,كمية الوقود
+Full Name,الاسم الكامل
+Funded Amount,المبلغ الممول
+Gain Loss Account,حساب الأرباح والخسائر
+Geolocation,الموقع الجغرافي
 Geolocation is not supported by your current browser,الموقع الجغرافي غير مدعوم في متصفحك الحالي
+Get Employees,الحصول على الموظفين
+Get Job Requisitions,الحصول على طلبات التوظيف
+Get Template,الحصول على القالب
+Goal,الهدف
+Goal Completion (%),نسبة إتمام الهدف (%)
+Goal Score (%),نقاط الهدف (%)
+Goal Score (weighted),نقاط الهدف (مرجحة)
+Goals,الأهداف
 Go to Login,الذهاب إلى تسجيل الدخول
 Go to Reset Password page,الذهاب إلى صفحة إعادة تعيين كلمة المرور
+Grade,الدرجة
+Grand Total,الإجمالي الكلي
+Grand Total (Company Currency),الإجمالي الكلي (عملة الشركة)
+Grievance Against,شكوى ضد
+Grievance Against Party,شكوى ضد الطرف
+Grievance Details,تفاصيل الشكوى
+Grievance Type,نوع الشكوى
 Gross Pay,إجمالي الراتب
 Half Day,نصف يوم
+Half Day Date,تاريخ نصف اليوم
+Has Certificate,لديه شهادة
+Health Insurance Name,اسم التأمين الصحي
+Hiring Settings,إعدادات التوظيف
 Holiday List,قائمة العطل الرسمية
+Holiday List End,نهاية قائمة العطل
+Holiday List Start,بداية قائمة العطل
+Holiday List for Optional Leave,قائمة عطل الإجازات الاختيارية
+Holidays,العطل الرسمية
 Home,الرئيسية
+Horizontal Break,فاصل أفقي
+Hourly Rate,الأجر بالساعة
+Hours,الساعات
+Identification Document Number,رقم وثيقة الهوية
+Identification Document Type,نوع وثيقة الهوية
+Import Attendance,استيراد الحضور
+Import Log,سجل الاستيراد
+In Time,وقت الدخول
+Include Holidays,تضمين العطل الرسمية
+Include holidays within leaves as leaves,احتساب العطل ضمن فترة الإجازة
 Install,تثبيت
+Interest,الفائدة
+Interview,المقابلة
+Interview Details,تفاصيل المقابلة
+Interview Reminder Notification Template,قالب إشعار تذكير المقابلة
+Interview Summary,ملخص المقابلة
+Interview Type,نوع المقابلة
+Interview Type Name,اسم نوع المقابلة
+Interviewer,المحاور
+Interviewers,المحاورون
+Introduction,المقدمة
+Investigation Details,تفاصيل التحقيق
+Invoice Ref,مرجع الفاتورة
+Is Active,نشط
+Is Allocated,مخصص
+Is Applicable for Referral Bonus,قابل لمكافأة الإحالة
+Is Carry Forward,قابل للترحيل
+Is Compensatory,تعويضي
+Is Earned Leave,إجازة مكتسبة
+Is Expired,منتهية الصلاحية
+Is Group,مجموعة
+Is Leave Without Pay,إجازة بدون راتب
+Is Mandatory,إلزامي
+Is Optional Leave,إجازة اختيارية
+Is Paid,مدفوع
+Is Partially Paid Leave,إجازة مدفوعة جزئياً
+Job Applicant,المتقدم للوظيفة
+Job Description,الوصف الوظيفي
+Job Offer,عرض العمل
+Job Offer Term Template,قالب شروط عرض العمل
+Job Offer Terms,شروط عرض العمل
+Job Opening,الشاغر الوظيفي
+Job Opening Template,قالب الشاغر الوظيفي
+Job Requisition,طلب توظيف
+Job Title,المسمى الوظيفي
+KRA,مؤشرات الأداء الرئيسية
+KRA Evaluation Method,طريقة تقييم مؤشرات الأداء
+KRA vs Goals,مؤشرات الأداء مقابل الأهداف
+KRAs,مؤشرات الأداء الرئيسية
+Last Name,اسم العائلة
+Last Odometer Value,آخر قيمة للعداد
+Last Sync of Checkin,آخر مزامنة لتسجيل الحضور
+Late Entry,التأخر
+Late Entry & Early Exit Settings for Auto Attendance,إعدادات التأخر والخروج المبكر للحضور التلقائي
+Late Entry Grace Period,فترة السماح للتأخر
+Latitude,خط العرض
+Leave Allocation,تخصيص الإجازة
+Leave Allocations,تخصيصات الإجازة
+Leave Application,طلب إجازة
+Leave Approval Notification Template,قالب إشعار موافقة الإجازة
+Leave Approver,معتمد الإجازة
+Leave Approver Mandatory In Leave Application,معتمد الإجازة إلزامي في طلب الإجازة
+Leave Approver Name,اسم معتمد الإجازة
 Leave Balance,رصيد الإجازات
+Leave Balance Before Application,رصيد الإجازات قبل الطلب
+Leave Block List Allowed,قائمة حظر الإجازة مسموحة
+Leave Block List Dates,تواريخ قائمة حظر الإجازة
+Leave Block List Name,اسم قائمة حظر الإجازة
 Leave History,سجل الإجازات
+Leave Period,فترة الإجازة
+Leave Policy,سياسة الإجازة
+Leave Policy Assignment,تعيين سياسة الإجازة
+Leave Policy Details,تفاصيل سياسة الإجازة
+Leave Settings,إعدادات الإجازة
+Leave Status Notification Template,قالب إشعار حالة الإجازة
 Leave Type,نوع الإجازة
+Leave Type Name,اسم نوع الإجازة
 Leaves,الإجازات
 Leaves & Holidays,الإجازات والعطل
+Leaves After Adjustment,الإجازات بعد التسوية
+Leaves Allocated,الإجازات المخصصة
+Leaves to Adjust,الإجازات للتسوية
+Left,يسار
+Letter Head,ترويسة الخطاب
+Level,المستوى
+License Plate,لوحة السيارة
+Link,رابط
 Load more,تحميل المزيد
+Location,الموقع
+Location / Device ID,الموقع / معرف الجهاز
+Location Name,اسم الموقع
 Locating...,جارٍ تحديد الموقع...
+Lodging Required,الإقامة مطلوبة
 Log Out,تسجيل الخروج
 Log Type,نوع السجل
 Login,تسجيل الدخول
 Login Failed,فشل تسجيل الدخول
+Longitude,خط الطول
 Longitude: {0}°,خط الطول: {0}°
+Lower Range,الحد الأدنى
+Make,الماركة
+Mark All as Read,تحديد الكل كمقروء
 Mark all as read,تحديد الكل كمقروء
+Mark Auto Attendance on Holidays,تسجيل الحضور التلقائي في العطل
+Marked Attendance,الحضور المسجل
+Maximum Carry Forwarded Leaves,الحد الأقصى للإجازات المرحلة
+Maximum Consecutive Leaves Allowed,الحد الأقصى للإجازات المتتالية المسموحة
+Maximum Encashable Leaves,الحد الأقصى للإجازات القابلة للصرف
+Maximum Leave Allocation Allowed per Leave Period,الحد الأقصى لتخصيص الإجازة لكل فترة
+Maximum Overtime Hours Allowed,الحد الأقصى لساعات العمل الإضافي المسموحة
+Maximum Overtime Hours Allowed Per Day,الحد الأقصى لساعات العمل الإضافي المسموحة يومياً
+Meal Preference,تفضيل الوجبة
 Menu,القائمة
+Message,الرسالة
+Mode of Payment,طريقة الدفع
+Mode of Travel,وسيلة التنقل
+Model,الموديل
 Monday,الاثنين
+More Info,مزيد من المعلومات
 My Advances,سلفي
 My Claims,مطالباتي
 My Leaves,إجازاتي
 My Requests,طلباتي
+Name of Organizer,اسم المنظم
+Naming Series,سلسلة التسمية
 New,جديد
+New Company,شركة جديدة
+New Employee ID,معرف موظف جديد
 New Expense Item,بند مصروف جديد
 New Expense Tax,ضريبة مصروف جديدة
+New Leaves Allocated,إجازات جديدة مخصصة
+New Leaves Allocated (In Days),إجازات جديدة مخصصة (بالأيام)
+New Password,كلمة المرور الجديدة
 No,لا
 No advances found,لا توجد سلف
 No expenses added,لم تتم إضافة مصروفات
+No of. Positions,عدد المناصب
 No salary slips found,لم يتم العثور على قسائم راتب
 No taxes added,لم تتم إضافة ضرائب
+Non-Encashable Leaves,الإجازات غير القابلة للصرف
+Notes,الملاحظات
 Notifications,الإشعارات
+Notify users by email,إشعار المستخدمين عبر البريد الإلكتروني
+Number Of Positions,عدد المناصب
+Number of Leaves,عدد الإجازات
+Obtained Average Rating,متوسط التقييم المحصل عليه
+Odometer Reading,قراءة العداد
+Off-shift,خارج الوردية
+Offer Date,تاريخ العرض
+Offer Term,شرط العرض
+Offer Terms,شروط العرض
+Old Parent,الأصل القديم
+On Leave,في إجازة
+Onboarding Activities,أنشطة التأهيل
+Onboarding Begins On,يبدأ التأهيل في
+Open,مفتوح
+Open Now,افتح الآن
+Open Resume in New Tab,فتح السيرة الذاتية في تبويب جديد
+Other Details,تفاصيل أخرى
 OTP Code,رمز التحقق
 OTP Verification,التحقق برمز OTP
-On Leave,في إجازة
-Open,مفتوح
+Out Time,وقت الخروج
+Overtime,العمل الإضافي
+Overtime Amount Calculation,احتساب مبلغ العمل الإضافي
+Overtime Details,تفاصيل العمل الإضافي
+Overtime Duration,مدة العمل الإضافي
+Overtime Salary Component,مكون راتب العمل الإضافي
+Overtime Type,نوع العمل الإضافي
+Overview,نظرة عامة
 Paid,مدفوع
 Paid Amount,المبلغ المدفوع
+Paid Amount (Company Currency),المبلغ المدفوع (عملة الشركة)
+Paid via Salary Slip,مدفوع عبر قسيمة الراتب
+Parent Goal,الهدف الرئيسي
 Partly Claimed and Returned,مطالب جزئياً ومُعاد
+Passport Number,رقم جواز السفر
 Password,كلمة المرور
+Pay Details,تفاصيل الدفع
+Pay Rate Multipliers,مضاعفات معدل الدفع
+Pay Via Payment Entry,الدفع عبر قيد الدفع
+Payable Account,الحساب المستحق
+Payables,المستحقات
+Payment Entry Reference,مرجع قيد الدفع
+Payroll,الرواتب
+Payroll Entry,قيد الرواتب
 Payroll Period,فترة الرواتب
 Pending,معلق
+Pending Amount,المبلغ المعلق
+Phone Number,رقم الهاتف
+Planned number of Positions,العدد المخطط للمناصب
+Please set "Default Payroll Payable Account" in Company Defaults,يرجى تعيين "حساب الرواتب المستحقة الافتراضي" في إعدادات الشركة
+Posted On,تاريخ النشر
+Posting Date,تاريخ الترحيل
+Preferred Area for Lodging,المنطقة المفضلة للإقامة
 Present,حاضر
+Prevent self approval for expense claims even if user has permissions,منع الموافقة الذاتية على مطالبات المصروفات حتى لو كان المستخدم لديه صلاحيات
+Prevent self approval for leaves even if user has permissions,منع الموافقة الذاتية على الإجازات حتى لو كان المستخدم لديه صلاحيات
+Preview,معاينة
+Print Heading,عنوان الطباعة
+Printing Details,تفاصيل الطباعة
+Process Attendance After,معالجة الحضور بعد
 Profile,الملف الشخصي
+Proficiency,الكفاءة
+Progress,التقدم
+Project,المشروع
+Promotion Date,تاريخ الترقية
+Property,الخاصية
+Public Holiday Multiplier,مضاعف العطلة الرسمية
+Publish Applications Received,نشر الطلبات المستلمة
+Publish Salary Range,نشر نطاق الراتب
+Publish on website,نشر على الموقع الإلكتروني
+Purpose,الغرض
+Purpose & Amount,الغرض والمبلغ
+Purpose of Travel,الغرض من السفر
 Push Notification permission denied,تم رفض إذن الإشعارات الفورية
 Push notifications disabled,الإشعارات الفورية معطلة
+Questionnaire Email Sent,تم إرسال بريد الاستبيان
+Quick Filters,فلاتر سريعة
 Quick Links,روابط سريعة
+Raised By,مقدم من
+Rate,المعدل
+Rate Goals Manually,تقييم الأهداف يدوياً
+Rating,التقييم
+Rating Criteria,معايير التقييم
+Ratings,التقييمات
+Re-allocate Leaves,إعادة تخصيص الإجازات
+Read,قراءة
+Reason,السبب
+Reason for Adjustment,سبب التسوية
+Reason for Requesting,سبب الطلب
 Recent Attendance Requests,طلبات الحضور الأخيرة
 Recent Expenses,المصروفات الأخيرة
 Recent Leaves,الإجازات الأخيرة
 Recent Shift Requests,طلبات الوردية الأخيرة
+Receivables,المستحقات
+Recruitment,التوظيف
+Reference,المرجع
+Reference Document,المستند المرجعي
+Reference Document Name,اسم المستند المرجعي
+Reference Document Type,نوع المستند المرجعي
+Reference Name,اسم المرجع
+Reference Type,نوع المرجع
+References,المراجع
+Referral Bonus Payment Status,حالة دفع مكافأة الإحالة
+Referral Details,تفاصيل الإحالة
+Referrer,المُحيل
+Referrer Details,تفاصيل المُحيل
+Referrer Name,اسم المُحيل
+Reflections,التأملات
+Refuelling Details,تفاصيل التزود بالوقود
 Reject,رفض
 Rejected,مرفوض
+Relieving Date,تاريخ المغادرة
 Reload,إعادة التحميل
+Remark,ملاحظة
+Remarks,الملاحظات
+Remind Before,التذكير قبل
+Reminded,تم التذكير
+Reminder,تذكير
+Reminders,التذكيرات
+Repay Unclaimed Amount from Salary,استرداد المبلغ غير المطالب به من الراتب
+Repeat On Days,التكرار في الأيام
+Reports To,يرفع تقاريره إلى
 Request Attendance,طلب تسجيل حضور
 Request Leave,طلب إجازة
 Request a Leave,طلب إجازة
 Request a Shift,طلب وردية
 Request an Advance,طلب سلفة
+Requested By,مطلوب من قبل
+Requested By (Name),مطلوب من قبل (الاسم)
+Required for Employee Creation,مطلوب لإنشاء الموظف
 Reset Password,إعادة تعيين كلمة المرور
+Resignation Letter Date,تاريخ خطاب الاستقالة
+Resolution Date,تاريخ الحل
+Resolution Details,تفاصيل الحل
+Resolved By,تم الحل بواسطة
+Restrict Backdated Leave Application,تقييد طلبات الإجازة بأثر رجعي
+Result,النتيجة
+Resume,السيرة الذاتية
+Resume Link,رابط السيرة الذاتية
+Resume link not valid,رابط السيرة الذاتية غير صالح
+Retirement Age (In Years),سن التقاعد (بالسنوات)
+Retry Failed Allocations,إعادة محاولة التخصيصات الفاشلة
 Returned,مُعاد
+Returned Amount,المبلغ المعاد
+Reviewer,المراجع
+Reviewer Name,اسم المراجع
+Revised CTC,الراتب الإجمالي المعدل
+Right,يمين
+Role,الدور
+Role Allowed to Create Backdated Leave Application,الدور المسموح له بإنشاء طلب إجازة بأثر رجعي
+Roster Color,لون الجدول الزمني
+Rounding,التقريب
+Route,المسار
 Salary,الراتب
+Salary Component,مكون الراتب
+Salary Currency,عملة الراتب
+Salary Details,تفاصيل الراتب
+Salary Expectation,الراتب المتوقع
 Salary Information,معلومات الراتب
+Salary Paid Per,الراتب يُدفع لكل
+Salary Slip,قسيمة الراتب
 Salary Slips,قسائم الراتب
 Sanctioned,معتمد
+Sanctioned Amount,المبلغ المعتمد
+Sanctioned Amount (Company Currency),المبلغ المعتمد (عملة الشركة)
 Saturday,السبت
+Save,حفظ
+Scheduled On,مجدول في
+Score,النقاط
+Score Earned,النقاط المحصلة
+Search for Jobs,البحث عن وظائف
+Select Employees,اختر الموظفين
 Select Payroll Period,اختر فترة الرواتب
+Select Terms and Conditions,اختر الشروط والأحكام
+Select Users,اختر المستخدمين
+Self Appraisal,التقييم الذاتي
+Send Emails At,إرسال البريد الإلكتروني في
+Send Interview Feedback Reminder,إرسال تذكير ملاحظات المقابلة
+Send Interview Reminder,إرسال تذكير المقابلة
+Send Leave Notification,إرسال إشعار الإجازة
+Sender,المرسل
+Sender Email,البريد الإلكتروني للمرسل
+Separation Activities,أنشطة المغادرة
+Separation Begins On,تبدأ المغادرة في
+Series,السلسلة
+Service Details,تفاصيل الخدمة
+Service Item,بند الخدمة
+Set Leave Details,تعيين تفاصيل الإجازة
+Set the frequency for holiday reminders,تعيين تكرار تذكيرات العطل
 Settings,الإعدادات
 Settle against Advances,تسوية مع السلف
 Shift,الوردية
+Shift Actual End,نهاية الوردية الفعلية
+Shift Actual Start,بداية الوردية الفعلية
+Shift Assignment Details,تفاصيل تعيين الوردية
 Shift Assignment History,سجل توزيع الورديات
+Shift Details,تفاصيل الوردية
+Shift End,نهاية الوردية
+Shift Location,موقع الوردية
+Shift Request,طلب وردية
+Shift Request Filters,فلاتر طلب الوردية
+Shift Schedule,جدول الورديات
+Shift Schedule Assignment,تعيين جدول الورديات
+Shift Settings,إعدادات الوردية
+Shift Start,بداية الوردية
+Shift Status,حالة الوردية
+Shift Timings,أوقات الوردية
 Shift Type,نوع الوردية
+Shift and Attendance,الوردية والحضور
+Show Leaves Of All Department Members In Calendar,عرض إجازات جميع أعضاء القسم في التقويم
+Skill,المهارة
+Skill Assessment,تقييم المهارة
+Skill Name,اسم المهارة
+Skills,المهارات
+Skip Auto Attendance,تخطي الحضور التلقائي
+Source,المصدر
+Source Name,اسم المصدر
+Sponsored Amount,المبلغ المدعوم
+Staffing Details,تفاصيل التوظيف
+Staffing Plan,خطة التوظيف
+Standard Multiplier,المضاعف القياسي
+Standard Working Hours,ساعات العمل القياسية
 Start Date,تاريخ البداية
+Start Time,وقت البداية
 Status,الحالة
+Status for Other Half,الحالة لنصف اليوم الآخر
+Subject,الموضوع
 Submit,تقديم
+Submit Now,تقديم الآن
+Submitted via Payroll Entry,مقدم عبر قيد الرواتب
 Success,نجاح
 Sunday,الأحد
+Supplier,المورد
+Task,المهمة
+Task Weight,وزن المهمة
 Taxes & Charges,الضرائب والرسوم
 Team Advances,سلف الفريق
 Team Claims,مطالبات الفريق
 Team Leaves,إجازات الفريق
 Team Requests,طلبات الفريق
+Template Name,اسم القالب
+Template Title,عنوان القالب
+Tenure,مدة الخدمة
+Terms,الشروط
+Terms and Conditions,الشروط والأحكام
 Thursday,الخميس
+Time,الوقت
+Time to Fill,الوقت اللازم للتعيين
+Timelines,الجداول الزمنية
+Title,العنوان
 To Date,إلى تاريخ
 To Date cannot be before From Date,لا يمكن أن يكون التاريخ الأخير قبل تاريخ البداية
+To Time,إلى الوقت
+To User,إلى المستخدم
+Total,الإجمالي
+Total (Company Currency),الإجمالي (عملة الشركة)
+Total Advance Amount,إجمالي مبلغ السلفة
+Total Advance Amount (Company Currency),إجمالي مبلغ السلفة (عملة الشركة)
+Total Amount,المبلغ الإجمالي
+Total Amount Reimbursed,إجمالي المبلغ المستردّ
+Total Asset Recovery Cost,إجمالي تكلفة استرداد الأصول
 Total Claimed Amount,إجمالي المبلغ المطالب به
+Total Claimed Amount (Company Currency),إجمالي المبلغ المطالب به (عملة الشركة)
+Total Estimated Budget,إجمالي الميزانية المقدرة
+Total Estimated Cost,إجمالي التكلفة المقدرة
+Total Exchange Gain/Loss,إجمالي ربح/خسارة الصرف
+Total Goal Score,إجمالي نقاط الأهداف
+Total Leave Days,إجمالي أيام الإجازة
+Total Leaves Allocated,إجمالي الإجازات المخصصة
+Total Leaves Encashed,إجمالي الإجازات المصروفة
+Total Overtime Duration,إجمالي مدة العمل الإضافي
+Total Payable Amount,إجمالي المبلغ المستحق
+Total Receivable Amount,إجمالي المبلغ المستحق القبض
+Total Sanctioned Amount,إجمالي المبلغ المعتمد
+Total Sanctioned Amount (Company Currency),إجمالي المبلغ المعتمد (عملة الشركة)
+Total Score,النقاط الإجمالية
+Total Self Score,النقاط الذاتية الإجمالية
+Total Taxes and Charges,إجمالي الضرائب والرسوم
+Total Taxes and Charges (Company Currency),إجمالي الضرائب والرسوم (عملة الشركة)
+Totals,الإجماليات
+Trainer Email,البريد الإلكتروني للمدرب
+Trainer Name,اسم المدرب
+Training,التدريب
+Training Date,تاريخ التدريب
+Training Event,حدث التدريب
+Training Program,برنامج التدريب
+Trainings,التدريبات
+Transaction Date,تاريخ المعاملة
+Transaction Name,اسم المعاملة
+Transaction Type,نوع المعاملة
+Transfer Date,تاريخ النقل
+Travel Advance Required,السلفة المطلوبة للسفر
+Travel From,السفر من
+Travel Funding,تمويل السفر
+Travel Itinerary,جدول الرحلة
+Travel To,السفر إلى
+Travel Type,نوع السفر
 Tuesday,الثلاثاء
+Type,النوع
 Unclaimed Amount,المبلغ غير المطالب به
+Unclaimed Amount (Company Currency),المبلغ غير المطالب به (عملة الشركة)
 Unpaid,غير مدفوع
 Upcoming Holidays,العطل القادمة
 Upcoming Shifts,الورديات القادمة
 Update Expense,تحديث المصروف
 Update Tax,تحديث الضريبة
+Upload HTML,رفع HTML
 Upload images or documents,رفع صور أو مستندات
 Uploading...,جارٍ الرفع...
+Upper Range,الحد الأقصى
+User,المستخدم
+Users,المستخدمون
+Vacancies,الشواغر
+Value / Description,القيمة / الوصف
+Vehicle Log,سجل المركبة
 Verify,تحقق
 View All,عرض الكل
 View Leave History,عرض سجل الإجازات
 View List,عرض القائمة
 View Salary Slips,عرض قسائم الراتب
 Wednesday,الأربعاء
+Weekend Multiplier,مضاعف عطلة الأسبوع
+Weightage (%),الوزن النسبي (%)
+Why is this Candidate Qualified for this Position?,لماذا هذا المرشح مؤهل لهذا المنصب؟
+Work Anniversaries,ذكريات العمل السنوية
+Work End Date,تاريخ انتهاء العمل
+Work From Date,تاريخ بداية العمل
 Work From Home,العمل من المنزل
+Work References,مراجع العمل
+Worked On Holiday,العمل في العطلة
+Working Hours,ساعات العمل
+Working Hours Calculation Based On,احتساب ساعات العمل بناءً على
+Working Hours Threshold for Absent,حد ساعات العمل للغياب
+Working Hours Threshold for Half Day,حد ساعات العمل لنصف اليوم
 Year To Date,من بداية العام حتى الآن
 Yes,نعم
 You have no advances,ليس لديك سلف
@@ -170,6 +829,7 @@ You have no requests,ليس لديك طلبات
 You have no upcoming holidays,ليس لديك عطل قادمة
 You have no upcoming shifts,ليس لديك ورديات قادمة
 Your password has expired. Please reset your password to continue,انتهت صلاحية كلمة المرور. يرجى إعادة تعيينها للمتابعة
+"From Date" can not be greater than or equal to "To Date","من تاريخ" لا يمكن أن يكون أكبر من أو يساوي "إلى تاريخ"
 cancellation,إلغاء
 cancelled,ملغى
 submission,تقديم
