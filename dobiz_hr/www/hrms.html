@@ -6,10 +6,10 @@
 			name="viewport"
 			content="width=device-width, initial-scale=1.0, viewport-fit=cover maximum-scale=1.0, user-scalable=no"
 		/>
-		<title>Frappe HR</title>
+		<title>Do Business HR</title>
 
 		<meta name="apple-mobile-web-app-capable" content="yes" />
-		<meta name="apple-mobile-web-app-title" content="Frappe HR" />
+		<meta name="apple-mobile-web-app-title" content="Do Business HR" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="white" />
 		<meta name="theme-color" content="#fff" />
 
@@ -76,6 +76,38 @@
 			}
 			applyLang();
 			[100,300,600,1000,2000].forEach(function(ms){ setTimeout(applyLang, ms); });
+
+			function replaceAppName(){
+				document.querySelectorAll('*').forEach(function(el){
+					if (el.childNodes){
+						el.childNodes.forEach(function(node){
+							if (node.nodeType === 3 && node.textContent.trim() === 'Frappe HR'){
+								node.textContent = 'Do Business HR';
+							}
+						});
+					}
+				});
+				// Replace logo: find any img with frappe HR logo src and swap it
+				document.querySelectorAll('img').forEach(function(img){
+					if (img.src && img.src.indexOf('frappe') !== -1 && img.closest('header, nav, [class*="navbar"], [class*="header"], [class*="toolbar"]')){
+						img.src = '/assets/dobiz_hr/images/dobiz-logo.svg';
+						img.style.height = '32px';
+						img.style.width = 'auto';
+					}
+				});
+				// Also target logo by looking for the header icon element
+				document.querySelectorAll('[class*="app-logo"], [class*="brand"], [class*="logo"]').forEach(function(el){
+					if (!el.querySelector('img[src*="dobiz"]')){
+						var img = document.createElement('img');
+						img.src = '/assets/dobiz_hr/images/dobiz-logo.svg';
+						img.style.height = '32px';
+						img.style.width = 'auto';
+						el.innerHTML = '';
+						el.appendChild(img);
+					}
+				});
+			}
+			[500,1000,2000,3000].forEach(function(ms){ setTimeout(replaceAppName, ms); });
 
 			var _r = history.replaceState;
 			history.replaceState = function(s,t,url){
