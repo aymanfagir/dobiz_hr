@@ -18,3 +18,5 @@ override_whitelisted_methods = {
 }
 
 after_migrate = ["dobiz_hr.patches.inject_hrms_css.apply"]
+
+boot_session = "dobiz_hr.boot.boot_session"
