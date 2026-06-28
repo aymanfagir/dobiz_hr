@@ -2,7 +2,7 @@ import frappe
 
 
 def boot_session(bootinfo):
-    if hasattr(bootinfo, "apps"):
+    if hasattr(bootinfo, "apps") and bootinfo.apps:
         for app in bootinfo.apps:
             if isinstance(app, dict) and app.get("name") == "hrms":
                 app["title"] = "Do Business HR"
