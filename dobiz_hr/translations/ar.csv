@@ -71,6 +71,7 @@ Appraisal Cycle,دورة التقييم
 Appraisal Linking,ربط التقييم
 Appraisal Template,قالب التقييم
 Appraisal Template Title,عنوان قالب التقييم
+Appraisal Overview,نظرة عامة على التقييم
 Approval,الموافقة
 Approval Status,حالة الموافقة
 Approve,موافقة
@@ -224,6 +225,12 @@ Employee Emails,بريد الموظفين الإلكتروني
 Employee Exit Settings,إعدادات مغادرة الموظف
 Employee Grade,درجة الموظف
 Employee Image,صورة الموظف
+Employee Information,معلومات الموظف
+Employee Birthday,عيد ميلاد الموظف
+Employees Working on a Holiday,الموظفين الذين يعملون في عطلة
+Employee Analytics,تحليلات الموظفين
+Employee Leave Balance Summary,ملخص رصيد إجازة الموظف
+Employee Exits,خروج الموظف
 Employee Name,اسم الموظف
 Employee Naming By,تسمية الموظف بواسطة
 Employee Onboarding Template,قالب تأهيل الموظف
@@ -273,6 +280,7 @@ Expense Approver Mandatory In Expense Claim,معتمد المصروفات إلز
 Expense Claim Summary,ملخص مطالبات المصروفات
 Expense Claim Type,نوع مطالبة المصروفات
 Expense Claims,مطالبات المصروفات
+Expense Claim,مطالبة بمصروفات
 Expense Date,تاريخ المصروف
 Expense Item,بند المصروف
 Expense Tax,ضريبة المصروف
@@ -288,6 +296,9 @@ Failed,فاشل
 Failure Reason,سبب الفشل
 Feedback,الملاحظات
 Feedback Ratings,تقييمات الملاحظات
+Feedback Score,نقاط الملاحظات
+Self Score,النتيجة الذاتية
+Goal Score,نتيجة الهدف
 Feedback Reminder Notification Template,قالب إشعار تذكير الملاحظات
 Fetch Geolocation,جلب الموقع الجغرافي
 Field Name,اسم الحقل
@@ -302,6 +313,7 @@ First Name,الاسم الأول
 Follow via Email,المتابعة عبر البريد الإلكتروني
 For Designation,للمسمى الوظيفي
 For Employee,للموظف
+Frappe HR,الموارد البشرية Frappe HR
 Fraction of Daily Salary per Leave,نسبة الراتب اليومي لكل إجازة
 Frequency,التكرار
 Friday,الجمعة
@@ -348,6 +360,7 @@ Home,الرئيسية
 Horizontal Break,فاصل أفقي
 Hourly Rate,الأجر بالساعة
 Hours,الساعات
+HR Setup,إعدادات البرنامج
 Identification Document Number,رقم وثيقة الهوية
 Identification Document Type,نوع وثيقة الهوية
 Import Attendance,استيراد الحضور
@@ -355,6 +368,7 @@ Import Log,سجل الاستيراد
 In Time,وقت الدخول
 Include Holidays,تضمين العطل الرسمية
 Include holidays within leaves as leaves,احتساب العطل ضمن فترة الإجازة
+Income Tax Computation,حساب ضريبة الدخل
 Install,تثبيت
 Interest,الفائدة
 Interview,المقابلة
@@ -533,6 +547,7 @@ Payroll Entry,قيد الرواتب
 Payroll Period,فترة الرواتب
 Pending,معلق
 Pending Amount,المبلغ المعلق
+Performance,الأداء
 Phone Number,رقم الهاتف
 Planned number of Positions,العدد المخطط للمناصب
 Please set "Default Payroll Payable Account" in Company Defaults,يرجى تعيين "حساب الرواتب المستحقة الافتراضي" في إعدادات الشركة
@@ -722,6 +737,8 @@ Supplier,المورد
 Task,المهمة
 Task Weight,وزن المهمة
 Taxes & Charges,الضرائب والرسوم
+Tax & Benifits,الضرائب والمزايا
+
 Team Advances,سلف الفريق
 Team Claims,مطالبات الفريق
 Team Leaves,إجازات الفريق
